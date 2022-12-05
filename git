@@ -1,0 +1,7 @@
+git clone (здесь ссылка на гит клон git@github.com:Pitonidy/OOP.git)
+cd OOP
+fish
+git checkout -b saden (создает ветку)
+touch guw.py (создает питон файл)
+git add . && git commit -m 'all'
+git push origin saden
